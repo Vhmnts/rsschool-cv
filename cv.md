@@ -1,13 +1,14 @@
 # Yauheni Balash
 ## Junior Frontend Developer
----
-## Contacts 
+
+
+## Contacts
 * **Discord:** Vhmnts(@Vhmnts)
----
+
+
 ## About myself
 Some text
 
----
 ## Skills 
 Intermediate:
 * Java 8 SE
@@ -22,7 +23,7 @@ Basic:
 * Mockito
 * JavaScript
 
----
+
 ## Code Example:
 **"Is a number prime?"** katag:
 >Define a function that takes an integer argument and returns a logical value true or false depending on if the integer is a prime.
@@ -44,12 +45,12 @@ function isPrime(num) {
 }
  ```
 
----
+
 ## Education
 **Belarusian State University Of Informatics and Radioelectronics**
   * Engineering-Psychological Maintenance of Information Technologies
 
----
+
 ## Languages:
 * Russian - Native
 * English - Pre-Intermediate/Intermediate
