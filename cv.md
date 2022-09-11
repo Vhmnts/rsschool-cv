@@ -6,6 +6,8 @@
 ---
 ## About myself
 Some text
+
+---
 ## Skills 
 Intermediate:
 * Java 8 SE
@@ -19,8 +21,10 @@ Basic:
 * JUnit 5
 * Mockito
 * JavaScript
+
+---
 ## Code Example:
-**"Is a number prime?"** kata:
+**"Is a number prime?"** katag:
 >Define a function that takes an integer argument and returns a logical value true or false depending on if the integer is a prime.
 Per Wikipedia, a prime number ( or a prime ) is a natural number greater than 1 that has no positive divisors other than 1 and itself.
 
@@ -39,9 +43,13 @@ function isPrime(num) {
   return true;
 }
  ```
+
+---
 ## Education
 **Belarusian State University Of Informatics and Radioelectronics**
   * Engineering-Psychological Maintenance of Information Technologies
-  ## Languages:
-  * Russian - Native
-  * English - Pre-Intermediate/Intermediate
+
+---
+## Languages:
+* Russian - Native
+* English - Pre-Intermediate/Intermediate
